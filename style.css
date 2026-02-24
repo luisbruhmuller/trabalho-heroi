@@ -50,6 +50,7 @@ div{
     align-items: center;
     justify-content: center;
     background-color: aliceblue;
+    border-radius: 40px;
     h1{
         background-color: rgb(255, 0, 0);
         color: antiquewhite;
