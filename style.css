@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: antiquewhite;
+}
+
+img{
+    height: 300px;
+    width: 500px;
+    border: 8px solid rgb(255, 255, 255);
+    border-radius: 35px;
+
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 75;
+    padding: 10px;
+    background-color: rgb(97, 255, 255);
+    color: black;
+}
+h3{
+    font-size: 45;
+}
+p{
+    font-size: 25;
+}
