@@ -1,6 +1,10 @@
 body{
     background-color: rgb(0, 0, 0);
     color: antiquewhite;
+    background-image: url(assets/thor\ com\ os\ 2\ martelo.jpg);
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 img{
@@ -23,4 +27,18 @@ h3{
 }
 p{
     font-size: 25;
+}
+footer{
+    color: rgb(97, 255, 255);
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
