@@ -53,6 +53,7 @@ div{
     background-color: aliceblue;
     border-radius: 40px;
     width: 1250;
+    padding: 30;
     h1{
         background-color: rgb(255, 0, 0);
         color: antiquewhite;
