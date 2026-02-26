@@ -63,7 +63,10 @@ div{
 
     }
     img{
-        width: 1024;
-        height: 1024;
+        width: 900;
+        height: 900;
     }
+}
+.borda-noticia{
+    margin-top: 30px;
 }
